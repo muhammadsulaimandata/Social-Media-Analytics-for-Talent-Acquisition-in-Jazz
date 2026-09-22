@@ -24,9 +24,9 @@ Through this project, we got hands-on experience with doing academic research, w
 
 ## Team
 
-- **Muhammad Sulaiman** — SP25-BDA-004
-- **Shafqat Rehman** — SP25-BDA-010
-- **Abuzar Mushtaq** — SP25-BDA-002
+- **Muhammad Sulaiman** - SP25-BDA-004 (Group Leader)
+- **Shafqat Rehman** - SP25-BDA-010
+- **Abuzar Mushtaq** - SP25-BDA-002
 
 **Course:** Human Resource Management  
 **University:** COMSATS University Islamabad, Abbottabad Campus  
